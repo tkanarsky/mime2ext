@@ -6,7 +6,7 @@ from json import load
 
 
 DATAFILE_NAME = "mime_data.json"
-STATIC_DIR = "static/"
+STATIC_DIR = "./"
 
 
 if __name__ == "__main__":
